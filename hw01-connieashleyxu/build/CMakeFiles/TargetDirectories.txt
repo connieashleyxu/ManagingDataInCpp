@@ -1,0 +1,9 @@
+/Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/build/CMakeFiles/main.dir
+/Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/build/CMakeFiles/edit_cache.dir
+/Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/build/CMakeFiles/rebuild_cache.dir
+/Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/build/src/CMakeFiles/src.dir
+/Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/build/src/CMakeFiles/edit_cache.dir
+/Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/build/src/CMakeFiles/rebuild_cache.dir
+/Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/build/tests/CMakeFiles/tests.dir
+/Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/build/tests/CMakeFiles/edit_cache.dir
+/Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/build/tests/CMakeFiles/rebuild_cache.dir

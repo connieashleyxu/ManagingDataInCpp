@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/src -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -std=gnu++11 -o CMakeFiles/main.dir/main.cpp.o -c /Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/main.cpp",
+  "file": "/Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/main.cpp"
+},
+{
+  "directory": "/Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/build/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/src -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -std=gnu++11 -o CMakeFiles/src.dir/cypher.cpp.o -c /Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/src/cypher.cpp",
+  "file": "/Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/src/cypher.cpp"
+},
+{
+  "directory": "/Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/build/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/src -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -std=gnu++11 -o CMakeFiles/src.dir/fileio.cpp.o -c /Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/src/fileio.cpp",
+  "file": "/Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/src/fileio.cpp"
+},
+{
+  "directory": "/Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/build/tests",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/src -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -std=gnu++11 -o CMakeFiles/tests.dir/Catch.cpp.o -c /Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/tests/Catch.cpp",
+  "file": "/Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/tests/Catch.cpp"
+},
+{
+  "directory": "/Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/build/tests",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/src -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -std=gnu++11 -o CMakeFiles/tests.dir/studentTests.cpp.o -c /Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/tests/studentTests.cpp",
+  "file": "/Users/connieashleyxu/Downloads/ITP365/hw01-connieashleyxu/tests/studentTests.cpp"
+}
+]
