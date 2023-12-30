@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libsrc.a CMakeFiles/src.dir/money.cpp.o CMakeFiles/src.dir/stock.cpp.o CMakeFiles/src.dir/portfolio.cpp.o CMakeFiles/src.dir/driver.cpp.o CMakeFiles/src.dir/strlib.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libsrc.a
