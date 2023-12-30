@@ -1,0 +1,3 @@
+Dog|5
+CAt|5
+Boar|5

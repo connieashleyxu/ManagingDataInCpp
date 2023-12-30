@@ -1,0 +1,3 @@
+Mighty Mouse|strength,flight|5
+Inspector Gadget|gadgetl|5
+Braniac|intel|4

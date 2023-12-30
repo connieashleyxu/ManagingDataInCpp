@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libsrc.a CMakeFiles/src.dir/hero.cpp.o CMakeFiles/src.dir/powers.cpp.o CMakeFiles/src.dir/fight.cpp.o CMakeFiles/src.dir/strlib.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libsrc.a
