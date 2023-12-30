@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libsrc.a CMakeFiles/src.dir/disk.cpp.o CMakeFiles/src.dir/peg.cpp.o CMakeFiles/src.dir/towers.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libsrc.a
